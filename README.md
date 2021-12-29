@@ -1,11 +1,22 @@
-### Hey there, I'm Axieum :wave:
+### Hi there, I'm Jonathan :wave:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Axieum&count_private=true&show_icons=true&theme=graywhite" align="right" alt="Axieum's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=axieum&count_private=true&show_icons=true&theme=graywhite" align="right" alt="Jonathan Hiles' GitHub Stats">
 
-I am a Yorkshireman studying Computer Science :mortar_board: at the [Queensland University of Technology](https://qut.edu.au/), Australia; minoring in Intelligent Systems and Networks & Security.
+I am a [Yorkshireman][wiki:yorkshire] who graduated with a Computer Science
+:mortar_board: (w/ Intelligent Systems and Networks & Security) degree from the
+[Queensland University of Technology][qut] in Brisbane, Australia.
 
-- :iphone: Full-Stack Web Development
+My passion for programming originates from creating utility mods
+for [Minecraft][minecraft].
+
+- :iphone: Full-stack web development
 - :clap: Machine Learning
-- :video_game: Minecraft Modding
-- :notes: Listening to [EDM](https://open.spotify.com/playlist/5WifTZCOMtHvzFL21IgNSm), e.g. [Deep](https://open.spotify.com/playlist/5KpaUBZCZ9JXt7HO5dRF4P) and [Chill](https://open.spotify.com/playlist/3JfDIgVMWIocoBZAUJZZbT)
+- :video_game: [Minecraft] modding
+- :notes: Listening to a variety of music, e.g. [Deep][spotify:deepchills] and [Chill][spotify:chill]
 - :innocent: An advocate for neat looking code
+
+[minecraft]: https://minecraft.net/
+[qut]: https://qut.edu.au/
+[spotify:chill]: https://open.spotify.com/playlist/3JfDIgVMWIocoBZAUJZZbT
+[spotify:deepchills]: https://open.spotify.com/playlist/5KpaUBZCZ9JXt7HO5dRF4P
+[wiki:yorkshire]: https://en.wikipedia.org/wiki/Yorkshire
